@@ -22,23 +22,22 @@ hoverChangeStudy(
 hoverChangeStudy(
   ".DevMedia",
   `Em setembro de 2022 foi quando resolvi me aprofundar
-  de vez na programação, resolvi fazer cursos de js, react e
-  agora estou estudando desenvolvimento mobile.(acho que estou
-  gostando mais do que desenvolvimento FrontEnd😶)`,
+  de vez na programação, fiz alguns cursos pelo youtube de HTML e CSS
+  e depois resolvi fazer cursos de js e react na DevMedia, estando
+  cada vez mais dedicado.`,
   "Cursos DevMedia",
   "DevMedia",
   "Set 2022 - Set 2023 (1 ano)"
 );
 
 hoverChangeStudy(
-  ".youtube",
-  `Mais ou Menos no meio de 2022 eu fui ver videos de
-  programação, vi videos de HTML e CSS, só por curiosidade, 
-  e acabei gostando, videos no YT ainda me ajudam muitoo. Todas 
-  as dúvidas que tenho, eu vou para o YT.`,
-  "Video Aulas no YouTube",
-  "YouTube",
-  "2022"
+  ".danki",
+  `Assim que acabou a assinatura da DevMedia eu comecei
+  a procurar outros cursos pela internet e achei a Danki Code,
+  onde estou me especializando mais em ReactJS e conhecendo o Angular.`,
+  "Cursos da Danki Code",
+  "Danki Code",
+  "Out 2023 - Out 2024"
 );
 
 hoverChangeDescription(
@@ -50,34 +49,30 @@ hoverChangeDescription(
   "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas."
 );
 hoverChangeDescription(
+  ".bootstrap",
+  "Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites usando HTML, CSS e JavaScript."
+);
+hoverChangeDescription(
   ".js",
   "JavaScript é uma linguagem de programação que permite a você implementar elementos dinâmicos em páginas web."
 );
 hoverChangeDescription(
-  ".sass",
-  "Sass é um pré-processador CSS que adiciona alguns recursos que não estão disponíveis de forma nativa."
+  ".jquery",
+  "jQuery é uma biblioteca livre que contém funções da linguagem de programação JavaScript que interage com páginas em HTML."
 );
 hoverChangeDescription(
   ".react",
   "React é uma biblioteca JavaScript com foco em criar interfaces de usuário de forma componetizada."
 );
 hoverChangeDescription(
-  ".git",
-  "Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software."
-);
-hoverChangeDescription(
-  ".styled",
-  "Styled-components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
-);
-hoverChangeDescription(
-  ".tailwind",
-  "Tailwind CSS é um framework CSS que nos fornece classes utilitárias com o propósito de estilizar as páginas."
+  ".figma",
+  "Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web."
 );
 hoverChangeDescription(
   ".typescript",
   "TypeScript é um superset do JavaScript que incluir recursos que não estão presentes na linguagem de forma nativa, além de torná-la estática."
 );
 hoverChangeDescription(
-  ".vite",
-  "Vite é um servidor de desenvolvimento local escrito por Evan You e usado por padrão pelo Vue e para modelos de projeto React."
+  ".angular",
+  "Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript."
 );
